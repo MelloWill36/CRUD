@@ -1,2 +1,14 @@
-# CRUD 
- IGTI
+# CRUD
+
+Objetivo desse exercício guiado era:
+
+- Criar um formulário com um campo de texto "nome";
+- Ao digitar algo e apertar ENTER, o nome cadastrado
+  deve ser inserido em uma lista. Em seguida, o nome no campo deve ser limpado;
+- Utilizar preventDefault() em form.onsubmit para prevenir o recarregamento da página;
+- A lista deve conter o nome cadastrado e um botão
+  para excluí-lo;
+- Ao clicar em um elemento da lista, seu conteúdo deve
+  ser exibido no formulário, permitindo a edição do mesmo.
+
+Porém, pude entender, de fato, o funcionamento e organização das Functions.
